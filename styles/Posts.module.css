@@ -1,0 +1,22 @@
+.container {
+  padding: 20px;
+}
+
+.postList {
+  display: flex;
+  flex-direction: column;
+}
+
+.postItem {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.postItem h2 {
+  margin: 0;
+}
+
+.postItem p {
+  margin: 5px 0;
+}
